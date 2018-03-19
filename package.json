@@ -1,15 +1,15 @@
 {
-  "name": "pdfjs-dist",
-  "version": "2.0.0",
+  "name": "pdfjs-signature-dist",
+  "version": "2018.3.19",
   "main": "build/pdf.js",
-  "description": "Generic build of Mozilla's PDF.js library.",
+  "description": "Generic build of Mozilla's PDF.js library, with signatures display enabled.",
   "keywords": [
     "Mozilla",
     "pdf",
     "pdf.js"
   ],
-  "homepage": "http://mozilla.github.io/pdf.js/",
-  "bugs": "https://github.com/mozilla/pdf.js/issues",
+  "homepage": "https://github.com/gorlok/pdfjs-signature-dist",
+  "bugs": "https://github.com/gorlok/pdfjs-signature-dist",
   "license": "Apache-2.0",
   "dependencies": {
     "node-ensure": "^0.0.0",
@@ -27,6 +27,6 @@
   "format": "amd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/pdfjs-dist"
+    "url": "https://github.com/gorlok/pdfjs-signature-dist.git"
   }
 }
